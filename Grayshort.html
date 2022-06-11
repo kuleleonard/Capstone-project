@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Use external Bootstrap stylesheet-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <!-- Use external css stylesheet-->
+    <link href="styles/styles.css" rel="stylesheet" type="text/css">
+    <!--Include jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"> </script>
+    <!-- Use script.js external Javascript file -->
+    <script src="scripts/script.js"></script> 
+    <title>Online Store</title>
+</head>
+
+<body>
+    <!-- Header background container (includes header and navigation) -->
+    <div class="header-backgrnd">
+        
+        <!-- Header text and logo -->
+        <div id="top" class="header row align-items-center">
+            
+            <div class="col-4 header-text">
+                Kule Leonard
+            </div>
+
+            <!-- Navigation links -->
+            <nav class="col-5 navigation">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="spacer">|</li>
+                    <li><a class="current-page" href="catalogue.html">Products</a></li>
+                    <li class="spacer">|</li>
+                    <li><a href="shoppingCart.html">Shopping Cart</a></li>
+                    <li class="spacer">|</li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+
+            <!-- Shopping cart icon on right of header -->
+            <div class="col-1 cartIconDiv">
+                <a href="shoppingCart.html" class="cartIconLink">
+                    <img class="cart-img" src="images/cart.png" alt="shopping cart">
+                 </a>
+                    <div class="cart-text">0</div>
+            </div>
+        </div>
+    <!-- Header background container ends here -->    
+    </div> 
+
+    <!-- Main content container begins -->
+    <div class="container">
+
+        <!-- Breadcrumbs -->
+        <div class="row">
+            <ul class="breadcrumb-list">
+                <li><a href="index.html">Home</a></li>
+                <li>></li>
+                <li><a href="catalogue.html">Product Catalogue</a></li>
+                <li>></li>
+                <li class="current-page">Gray Short</li>
+            </ul>
+
+            <!-- Breadcrumbs end -->
+        </div>
+
+        <!-- Container for page content and images -->
+        <div class="row">
+            <div class="col-8">
+                <img class="shadow p-1 mb-5 bg-white rounded img-fluid" src="images/Grayshort.png"
+                    alt="Olive oil product image - large">
+            </div>
+            <div class="col-4">
+                <h1>Gray Short</h1>
+                <div class="priceAndButton">
+                    <h2 class="price">R 99</h2>
+                    <!-- Clicking this button adds item to cart, and creates new "Go to cart" button. If clicked, user
+                    is taken to shopping cart page -->
+                    <a href="" class="btn btn-outline-primary oliveOilProduct">Add to Cart</a>
+                </div>
+                 <h5 style="color: #000; font-weight: bold;">DESCRIPTION</h5>
+            <p>It’s made of certified Grade-A cashmere from Inner Mongolia, which is more durable, pills less, and gets softer with wear.</p>
+            <p>Dress-wearing size 0</p>
+             <p>Regular Inseam: Intended to hit at the ankle.</p>
+            <p> 100% triacetate: Japanese GoWeave is light, drapey, and wrinkle-resistant.</p>
+             <p>Machine wash cold. Lay flat to dry.</p>
+            <p>Made in Nanchong, China</p>
+            <p>Your one-and-done outfit—fit for any occasion.</p>
+            </div>
+
+            <!-- Container for page content and images ends -->
+        </div>
+
+        <!-- Main content container ends -->
+    </div>
+
+    <!-- These links are hidden until you hover over the "Products" navigation link in the header. Then I used
+        jQuery to make them slide out -->
+    <div class="hiddenDiv">
+            <div class="hiddenLinks">
+                <div><a href="maroon-bag.html">Calfskin Bag </a></div>
+                <div><a href="Mask-Group.html">Mask group</a></div>
+                <div><a href="nicebag.html">Nice bag</a></div>
+                <div><a href="hat.html">Hat</a></div>
+                <div><a href="Grayshort.html">Gray Short</a></div>
+                  
+            </div>
+        </div>
+
+    <!-- Back to top arrow-->
+    <div class="row" style="margin-left: 15px;">
+        <img class="arrow-icon" src="images/arrow-icon.png" alt="">
+        <a href="#top">&nbsp; Back to the top</a>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer-container">
+        <footer>
+            <p>© All rights reserved by Kule Leonard</p>
+        </footer>
+    </div>
+
+</body>
+
+</html>
