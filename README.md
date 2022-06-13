@@ -31,3 +31,51 @@ Below are the instruction given to create the project as stated by task 15 level
         * A drop-down menu.
         * Animation effects.
         * A function with chained effects.
+
+### Technologies
+This project uses:
+* HTML 5 
+* CSS 3
+* Javascript ECMAScript 2021
+* Bootstrap 4
+* jQuery 3.6.0
+
+## Installation
+All  codes for this project can be found here if would like to view my GitHub repository for the project - [Capstone Project 2](https://github.com/kuleleonard/Capstone-project/). To clone this respository to your local machine, use the following URL's: 
+[SSH](git@github.com:kuleleonard/Capstone-project.git) or [HTTPS](https://github.com/kuleleonard/Capstone-project.git) . If you want to Learn how to clone a Git repository, go to [Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) .
+
+## Usage
+To use this website, simply follow the instructions below (includes screenshots):
+
+### Step 1
+Click on the "Products" link at the top right of the website to view the available products. Then click on the image of the product you would like to add to the "shopping cart". See figure 1 below.
+
+![Figure 1](images/click-products.png)
+
+### Step 2
+Click the "Add to Cart" button for the product you have selected. See figure 2 below.
+
+![Figure 2](images/click-addtocart.png)
+
+### Step 3
+Click the "Go to cart" button that appears next to the "Add to cart" button. See figure 3 below.
+
+![Figure 3](images/click-gotocart.png)
+
+### Step 4
+Click the "Proceed to Shipping" button under the "Cart Summary" information. See figure 4 below.
+
+![Figure 4](images/click-shipping.png)
+
+### Step 5
+Fill in the form, including whether you want to have your product delivered (1) or you will collect it, and choose a discount coupon (2), if applicable. Once you have filled all your information in, click the "Submit" button at the bottom (3). See figure 5 below.
+
+![Figure 5](images/click-submit.png)
+
+### Step 6
+Finally, you can click the "Confirm order" button on the Shopping cart page to finalise your order. See figure 6 below.
+
+![Figure 6](images/click-confirm.png)
+
+### Credits
+This website was created by Evan Malherbe during the HyperionDev Full Stack Web Development Bootcamp November 2021 [GitHub profile](https://github.com/kuleleonard) 
