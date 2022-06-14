@@ -78,4 +78,4 @@ Finally, you can click the "Confirm order" button on the Shopping cart page to f
 ![Figure 6](images/six-image.png)
 
 ### Credits
-This website was created by Evan Malherbe during the HyperionDev Full Stack Web Development Bootcamp November 2021 [GitHub profile](https://github.com/kuleleonard) 
+Developed by Kule Leonard - Hyperion student - April, 2022 - Sept - 2022 [GitHub profile](https://github.com/kuleleonard)
