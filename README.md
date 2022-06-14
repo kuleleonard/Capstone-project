@@ -65,7 +65,7 @@ Click the "Go to cart" button that appears next to the "Add to cart" button. See
 ### Step 4
 Click the "Proceed to Shipping" button under the "Cart Summary" information. See figure 4 below.
 
-![Figure 4](images/fourth-image.png)
+![Figure 4](images/four-image.png)
 
 ### Step 5
 Fill in the form, including whether you want to have your product delivered (1) or you will collect it, and choose a discount coupon (2), if applicable. Once you have filled all your information in, click the "Submit" button at the bottom (3). See figure 5 below.
