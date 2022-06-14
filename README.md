@@ -50,32 +50,32 @@ To use this website, simply follow the instructions below (includes screenshots)
 ### Step 1
 Click on the "Products" link at the top right of the website to view the available products. Then click on the image of the product you would like to add to the "shopping cart". See figure 1 below.
 
-![Figure 1](images/click-products.png)
+![Figure 1](images/first-image.png)
 
 ### Step 2
 Click the "Add to Cart" button for the product you have selected. See figure 2 below.
 
-![Figure 2](images/click-addtocart.png)
+![Figure 2](images/second-image.png)
 
 ### Step 3
 Click the "Go to cart" button that appears next to the "Add to cart" button. See figure 3 below.
 
-![Figure 3](images/click-gotocart.png)
+![Figure 3](images/third-image.png)
 
 ### Step 4
 Click the "Proceed to Shipping" button under the "Cart Summary" information. See figure 4 below.
 
-![Figure 4](images/click-shipping.png)
+![Figure 4](images/fourth-image.png)
 
 ### Step 5
 Fill in the form, including whether you want to have your product delivered (1) or you will collect it, and choose a discount coupon (2), if applicable. Once you have filled all your information in, click the "Submit" button at the bottom (3). See figure 5 below.
 
-![Figure 5](images/click-submit.png)
+![Figure 5](images/five-image.png)
 
 ### Step 6
 Finally, you can click the "Confirm order" button on the Shopping cart page to finalise your order. See figure 6 below.
 
-![Figure 6](images/click-confirm.png)
+![Figure 6](images/six-image.png)
 
 ### Credits
 This website was created by Evan Malherbe during the HyperionDev Full Stack Web Development Bootcamp November 2021 [GitHub profile](https://github.com/kuleleonard) 
